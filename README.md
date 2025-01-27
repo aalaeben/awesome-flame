@@ -38,6 +38,9 @@
 
 ## Articles & Tutorials
 
+### Video Tutorial by [Ask Science Questions](https://www.youtube.com/@ASQ90) - [Complete Mario game in Flame in French language] - (2024-07-24)
+- [Code your own Mario game with Flutter & Flame! (Complete step by step tutorial) in French](https://www.youtube.com/watch?v=52DCNRGlpEE)
+
 ### Tutorial by [imaNNeo](https://www.youtube.com/@imaNNeO) - [Color Switch Game tutorial](https://www.youtube.com/playlist?list=PL1-_rCwRcnbNknvJ4fbnsn46_ww8V4CVh) - (2023-10-06)
 - [0. Overview and Introduction of Flutter / Flame game tutorials 🔍](https://youtu.be/ubyoQGPnmmw?si=pt8t0Oi_7WYn0VGm) 
 - [1. Flame Component System (FCM) & Event handling 🎊](https://youtu.be/eiZDbUBesqE)
